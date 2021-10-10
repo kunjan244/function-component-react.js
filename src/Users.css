@@ -1,0 +1,22 @@
+h1{
+    margin: 20px;
+    background-color: orangered;
+    text-align: center;
+}
+p{
+    margin: 20px;
+    background-color:bisque;
+    text-align: center;
+     
+}
+h2{
+    margin: 20px;
+    background-color: dimgray;
+    text-align: center;
+}
+
+h3{
+    margin: 20px;
+   background-color: rgb(13, 122, 122);
+    text-align: center;
+}
